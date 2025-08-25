@@ -27,21 +27,31 @@ This repo contains **basic projects, mini apps, and experiments** that shaped my
 
 ---
 
-## 🚦 Quick Start
-Clone the repo and run any project locally:
-bash
-git clone https://github.com/your-username/streamlit-journey.git
-cd streamlit-journey/project-folder
-streamlit run app.py
+## 🚦 Quick Start  
 
+Clone the repo and run any project locally:  
 
-🎯 Goals of This Repo
+```bash
+# Clone this repository
+git clone https://github.com/akshitvats026/streamlit-journey.git  
+
+# Move into a project folder
+cd streamlit-journey/project-folder  
+
+# Run the Streamlit app
+streamlit run app.py  
+```
+---
+
+## 🎯 Goals of This Repo
 
 ✔️ Build a habit of learning in public
-✔️ Share simple yet beautiful projects
-✔️ Inspire beginners to explore Streamlit
-✔️ Track my journey from basics ➝ advanced
 
+✔️ Share simple yet beautiful projects
+
+✔️ Inspire beginners to explore Streamlit
+
+✔️ Track my journey from basics ➝ advanced
 
 ---
 
