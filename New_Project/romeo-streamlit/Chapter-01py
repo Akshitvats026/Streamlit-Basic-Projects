@@ -1,0 +1,13 @@
+import streamlit as st
+
+st.title("Hello Romeo-Vault")
+st.subheader("One-Stop Solution for your problems")
+st.text("Welcome to Romeo-Vault!")
+st.write("This is a simple Streamlit application to demonstrate the capabilities of Romeo-Vault.")
+
+Romeo = st.selectbox("Choose your fav. movie:", ["Marco", "Kill", "Vikram", "Kaithi", "Leo", "KGF"])
+
+st.write(f"You selected: {Romeo}")
+
+st.success("Your selection has been recorded!")
+
